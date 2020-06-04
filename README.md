@@ -1,7 +1,7 @@
 # E-exam
 
 ## Team members
-  1.Mohamed AbdElmageed Mahmoud 2.moataz mohamed saad  3.Mina Morkos Ishaq
+  1.Mohamed AbdElmageed Mahmoud 2.Moataz Mohamed Saad  3.Mina Morkos Ishaq
 
 ## Problem description
 
