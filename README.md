@@ -1,8 +1,8 @@
 # E-exam
 
 ## Team members
-  1. moataz mohamed saad  2.Mina Morkos Ishaq 3.Mohammed abd al majeed
-
+  1. Mohammed AbdElmageed Mahmoud 2. Moataz Mohamed Saad  3. Mina Morkos Ishaq
+  
 ## Problem description
 
 * make professor can create exam any time and student will take the exam in the spasific time the professor selected it 
